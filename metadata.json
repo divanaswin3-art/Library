@@ -1,0 +1,6 @@
+{
+  "name": "Folio — Library Book Management System",
+  "description": "Track book availability, borrowing, due dates, and returns with persistent file storage and structured catalog arrays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
